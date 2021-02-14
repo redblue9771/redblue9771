@@ -1,5 +1,8 @@
-### Hi there 👋
+### I'm RedBlue 👋
 
+- 直道相思了无益，未妨惆怅是情况。
+
+- 赤琦，高冷的城市皈依。
 <!--
 **redblue9771/redblue9771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
