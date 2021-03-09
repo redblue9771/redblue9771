@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Source Karma badge for @redblue9771](https://sourcekarma-og.vercel.app/api/redblue9771/github)](https://sourcekarma.vercel.app/redblue9771)
