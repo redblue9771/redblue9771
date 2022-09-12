@@ -10,7 +10,7 @@
 
 <p align="center">  🌱 I’m currently learning <strong>Swift</strong>. </p>
 
-<p align="center">  📝 I regularly write articles on <a href="https://redblue.fun">https://redblue.fun</a>. </p>
+<p align="center">  📝 I regularly write articles on <a href="https://redblue.fun" target="_blank">https://redblue.fun</a>. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
