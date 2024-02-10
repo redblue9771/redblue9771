@@ -2,10 +2,16 @@
 <h3 align="center">A Software Engineer from China.</h3>
 <h3 align="center">直道相思了无益，未妨惆怅是轻狂</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=redblue9771&label=Profile%20views&color=0e75b6&style=flat" alt="redblue9771" /> </p>
+<p align="center">
+   <a href="https://github.com/redblue9771"><img src="https://komarev.com/ghpvc/?username=redblue9771&label=Profile%20views&color=0e75b6&style=flat" alt="redblue9771" /></a>
+   <a href="https://wakatime.com/@eb015588-9a48-45a0-9cbf-2f3bd620b00a"><img src="https://wakatime.com/badge/user/eb015588-9a48-45a0-9cbf-2f3bd620b00a.svg" alt="Total time coded since Aug 14 2019" /></a>
+   <a href="https://github.com/redblue9771?tab=followers"> <img src="https://img.shields.io/github/followers/redblue9771?logo=github&style=plastic"/></a>
+ </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redblue9771" alt="redblue9771" /></a> </p>
-  
+
+
 <p align="center">  🔭 I’m currently working on <strong>Means-Tech</strong>. </p>
 
 <p align="center">  🌱 I’m currently learning <strong>Swift</strong>. </p>
